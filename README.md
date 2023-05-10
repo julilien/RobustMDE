@@ -1,4 +1,4 @@
-# Robust Regression for Monocular Depth Estimation (ICCV 2021)
+# Robust Regression for Monocular Depth Estimation
 
 The (Tensorflow 2.*) implementation of the superset learning-based robust depth regression method and the experimental evaluation as presented in the corresponding paper "Robust Regression for Monocular Depth Estimation" published at ACML 2021. Cite the paper as follows:
 
