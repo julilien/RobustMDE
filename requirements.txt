@@ -1,0 +1,10 @@
+tensorflow>=2.2.0
+numpy
+matplotlib
+mlflow
+scipy
+scikit-image
+click
+keras-tuner
+scikit-learn
+requests
